@@ -2,7 +2,9 @@
 
 # Leadership
 Adam Wilcox, Director (UW)
+
 Chunlei Wu, Co-Director (Scripps)
+
 # Other Core Members
 Don't edit this - the RPPR generator populates this section
 
