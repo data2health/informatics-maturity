@@ -53,6 +53,6 @@ For the reusable data portal, we have created repositories for metadata schemas,
 
 ### Current Projects
 * [Maturity Models](https://github.com/data2health/maturity-model) ([RPPR](https://github.com/data2health/maturity-model/blob/master/RPPR.md))
-* * [Reusable Data Portal](https://github.com/data2health/rdp-portal) ([RPPR](https://github.com/data2health/rdp-portal/blob/master/RPPR.md))
+* [Reusable Data Portal](https://github.com/data2health/rdp-portal) ([RPPR](https://github.com/data2health/rdp-portal/blob/master/RPPR.md))
 * [Governance Pathways](https://github.com/data2health/governance-pathways) ([RPPR](https://github.com/data2health/governance-pathways/blob/master/RPPR.md))
 
