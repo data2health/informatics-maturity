@@ -52,7 +52,7 @@ For the governance pathways project, we have started with collection and initial
 For the reusable data portal, we have created repositories for metadata schemas, a best practices web portal, a data repository schema, and other metadata schema utility tools.
 
 ### Current Projects
-* Maturity Models
+* [Maturity Models](https://github.com/data2health/maturity-model) ([RPPR](https://github.com/data2health/maturity-model/blob/master/RPPR.md))
 * Reusable Data Portal
 * Governance Pathways
 
