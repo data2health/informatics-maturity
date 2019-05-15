@@ -30,7 +30,7 @@ Our approach is to determine, define and disseminate best practices in data use 
 CTSA hubs have advanced multiple approaches for data sharing and use, yet the best approaches for success have not been defined. As a result, there are likely variations in practice and impact across sites, with organizations not able to leverage well or apply the lessons learned by other sites. It is also unclear how best to achieve efficient use of data with maximum impact.
 
 ## Innovation
-We have identified models for diseminating best practices, and are working with the CTSA community to define best approaches for improving adoption of these practices. It is also critical that sites know the most important pathways for success, so that investments in data are well defined and understood in terms of value and effect.
+We have identified models for disseminating best practices, and are working with the CTSA community to define best approaches for improving adoption of these practices. It is also critical that sites know the most important pathways for success, so that investments in data are well defined and understood in terms of value and effect.
 
 ### Justification and Feasibility
 The need for best practices dissemination was a foundational principle of the CD2H original proposal. As many organizations are striving to improve their use of data, there have not been sufficient frameworks to define best practices and pathways to success. Demonstrations of successful instances can be ineffective when too many differences exist between complex organizations. Pathways and tools to define and facilitate adoption of best practices are needed.
